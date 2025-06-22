@@ -1,0 +1,15 @@
+ipykernel==6.28.0
+ipyplot==1.1.2
+jupyterlab==4.1.1
+jupyterlab-spellchecker==0.8.4
+jupyterlab_pygments==0.3.0
+jupyterlab_server==2.25.2
+matplotlib==3.8.2
+matplotlib-inline==0.1.6
+numpy==1.26.2
+pandas==2.2.0
+psycopg2==2.9.9
+psycopg2-binary==2.9.9
+requests==2.31.0
+scipy==1.12.0
+SQLAlchemy==2.0.29
